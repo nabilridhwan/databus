@@ -1,9 +1,13 @@
-# Bus API (Work in progress)
+# Bus Data Sets
 > Singapore bus public transport data sets.
 
 ## All data sets available
+> All data sets can be found in `data/`
 - Bus Stops
 - Buses
+- Bus routes (new!)
 
-## For developers
-Do not run the scripts!!! This is a work in progress!
+## How to use
+1. Run `main.js`.
+2. Wait until it is done.
+3. Data will be saved according to the output on the console output.
